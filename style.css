@@ -5,6 +5,7 @@
  Template:     twentysixteen
 */
 
-.page-id-26 {
+/*targeting only the home page by using page*/
+.page-id-26 .entry-content{ 
     color: red;
 }
