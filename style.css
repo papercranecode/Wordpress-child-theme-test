@@ -4,3 +4,7 @@
  Description:  This is the child theme of Twentysixteen
  Template:     twentysixteen
 */
+
+.page-id-26 {
+    color: red;
+}
