@@ -5,7 +5,7 @@
  Template:     twentysixteen
 */
 
-/*targeting only the home page by using the page id class with the paragraph class - selecting only the parts of the page we want to change*/
-.page-id-26 .entry-content{ 
+/*targeting only the home page by using the page home class with the paragraph class - selecting only the parts of the page we want to change*/
+.home .entry-content{ 
     color: red;
 }
